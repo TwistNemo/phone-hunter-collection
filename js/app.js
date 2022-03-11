@@ -39,7 +39,7 @@ document.getElementById('search-btn').addEventListener('click', () => {
         fetch(api)
             .then(res => res.json())
             .then(data => showData(data.data));
-        // .then(data => console.log(data.data));
+
     }
 });
 
