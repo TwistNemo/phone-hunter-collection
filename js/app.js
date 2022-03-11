@@ -46,6 +46,10 @@ document.getElementById('search-btn').addEventListener('click', () => {
 
 const showData = (phones) => {
     console.log(phones);
+
+
+
+
     /*************************\
         FILTER THE DATA
     \*************************/
