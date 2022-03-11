@@ -83,6 +83,8 @@ const showData = (phones) => {
             /*********************************\
                 DYNAMIC HTML FOR PHONE CARD
             \*********************************/
+
+
             newDiv.innerHTML = `
             <div class="card-group ">
                 <div class="card shadow mb-5" style="width: 15rem;min-height:450px">
