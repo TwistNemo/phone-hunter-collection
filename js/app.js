@@ -56,6 +56,9 @@ const showData = (phones) => {
     const phoneBox = phones.filter(element => element.brand !== undefined && element.phone_name !== undefined && element.image !== undefined && element.slug !== undefined);
 
 
+
+
+
     /*********************************\
         VALIDATION FOR WRONG INPUT
     \*********************************/
